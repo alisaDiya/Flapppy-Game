@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Flappy Bird game/1.0.0": {
+        "runtime": {
+          "Flappy Bird game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flappy Bird game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
